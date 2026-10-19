@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "starred_at": "2024-02-18"
+  },
+  {
+    "repository": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "starred_at": "2023-11-06"
+  },
+  {
+    "repository": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React framework for the web.",
+    "starred_at": "2023-06-21"
+  },
+  {
+    "repository": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "description": "A repository advocating for better work-life balance in the tech industry.",
+    "starred_at": "2022-10-14"
+  }
+]
